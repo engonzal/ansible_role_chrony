@@ -2,6 +2,8 @@
 
 Installs and configures chrony on RHEL/CentOS or Debian/Ubuntu servers.
 
+[![Build Status](https://travis-ci.org/engonzal/ansible_role_chrony.svg?branch=master)](https://travis-ci.org/engonzal/ansible_role_chrony)
+
 ## Requirements
 
 Note that this role requires root.  Ensure become: yes is set at the top level of your playbook or invoke the role in your playbook like:
