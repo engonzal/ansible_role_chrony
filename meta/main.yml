@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-role_name: chrony
+  role_name: chrony
   author: engonzal
   description: Provision the chrony ntp client and specify custom ntp servers
   company: buildahomelab.com
