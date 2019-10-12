@@ -5,7 +5,7 @@
 # Install Chrony
 - name: Install Chrony
   package:
-    name: chrony
+    name: "{{ chrony_pkg }}"
     state: present
 
 - name: Install chrony config
